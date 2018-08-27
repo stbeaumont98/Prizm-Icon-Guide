@@ -26,3 +26,7 @@ The end results should be similar to this:
 ![Unselected](/unselected.png?raw=true)
 
 ![Selected](/selected.png?raw=true)
+
+And here's a proof of concept I made with Prizoop:
+
+![Prizoop][/Prizoop_Icon_Example.png?raw=true]
