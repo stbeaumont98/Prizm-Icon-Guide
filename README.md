@@ -20,3 +20,9 @@ The rounded rectangle can be whatever color you choose, but to get the closest r
 The overlays and backgrounds should be self explanitory from there, you can just change the visibility.
 
 When saving in Photoshop, the default BMP settings should work fine and in GIMP, export as BMP and change it to 24 bit under the advanced options when prompted.
+
+The end results should be similar to this:
+
+![Unselected](/unselected.png?raw=true)
+
+![Selected](/selected.png?raw=true)
