@@ -29,4 +29,4 @@ The end results should be similar to this:
 
 And here's a proof of concept I made with Prizoop:
 
-![Prizoop][/Prizoop_Icon_Example.png?raw=true]
+![Prizoop](/Prizoop_Icon_Example.png?raw=true)
